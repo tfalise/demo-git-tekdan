@@ -2,9 +2,9 @@
 {
     public class Class1
     {
-        function void HelloWorld()
+        function void HelloWorld(string name)
         {
-            System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Hello" + name);
         }
     }
 }
