@@ -4,7 +4,7 @@
     {
         function void HelloWorld(string name)
         {
-            System.Console.WriteLine("Hello" + name);
+            System.Console.WriteLine("Hello" + name + "!");
         }
     }
 }
